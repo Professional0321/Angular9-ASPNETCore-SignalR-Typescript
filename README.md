@@ -42,14 +42,6 @@ http://localhost:4200
 to see the page then.
 
 Have fun!
-
-## Author
-
-👤 **Fabian Gosebrink**
-
-- Twitter: [@FabianGosebrink](https://twitter.com/FabianGosebrink)
-- Github: [@FabianGosebrink](https://github.com/FabianGosebrink)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
